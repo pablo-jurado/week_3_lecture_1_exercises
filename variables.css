@@ -1,0 +1,8 @@
+h1, h2, h3 {
+  background-color: #216ff6;
+  color: white;
+  padding: 5px; }
+
+.content a {
+  color: #216ff6;
+  text-decoration: underline; }

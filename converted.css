@@ -1,0 +1,8 @@
+.content {
+  font-family: Helvetica; }
+.content p {
+  margin: 15px 0; }
+.content p a {
+  text-decoration: underline; }
+.content button {
+  padding: 10px; }
